@@ -4,5 +4,6 @@ public class Hello{
     System.out.println("Welcome to Java program");
     System.out.println("Welcome to Git project");
     System.out.println("lets start with learning");
+    System.out.println("lets us proceed the following steps");
   }
 }
